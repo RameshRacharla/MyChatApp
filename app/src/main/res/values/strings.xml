@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MyChatApp</string>
+    <string name="app_name">MyChat App</string>
     <string name="error_getting_data">Error getting data!!!</string>
 
 </resources>
